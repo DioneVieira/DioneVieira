@@ -1,6 +1,7 @@
-### Olá Eu sou O Dione Vieira! 🤙
+### Olá, Eu sou O Dione Vieira! 🤙
 
-✍️ Estou estudando Análise e Desenvolvimento de Sistemas na UNINTER
+✍️ Estou estudando Análise e Desenvolvimento de Sistemas na UNINTER.<br/>
+🔍 Procurando oportunidades para trabalhar na área de TI. Estágio, Trainee, Junior, etc...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dione-vieira-61aa85219 )
 [![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
