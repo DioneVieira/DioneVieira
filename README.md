@@ -4,7 +4,6 @@
 🔍 Procurando oportunidades para trabalhar na área de TI. Estágio, Trainee, Junior, etc...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dione-vieira-61aa85219 )
-[![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 
 ![Dione GitHub stats](https://github-readme-stats.vercel.app/api?username=DioneVieira&show_icons=true&theme=tokyonight)
 
