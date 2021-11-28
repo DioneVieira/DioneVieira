@@ -16,7 +16,7 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-### Sobre Mim
+### Sobre Mim<hr>
 Desde a adolescência, perdia horas modificando jogos que costumava ter no
 computador, fazia mais modificações do que jogava. Comecei a trabalhar em
 linhas de produção, mas sempre incomodado na profissão que exercia, ficava
