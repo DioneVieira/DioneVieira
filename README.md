@@ -27,7 +27,7 @@ programação, naquele momento, vi que era aquilo que queria fazer na vida
 DESENVOLVIMENTO DE SISTEMAS**, desde então minha rotina é estudar, além
 da faculdade, estudar linguagens de programação, claro que ainda não conheço
 todas, estou aprendendo **Python, Java, HTML, CSS e JavaScript** mas quero ter conhecimento
-em várias, enquanto estou parado nos congestionamentos estudo inglês ouvindo
+em várias, enquanto estou parado nos congestionamentos estudo **inglês** ouvindo
 podcasts. Sou muito criativo, gosto de artesanato, natureza, tomar aquele
 cafezinho na frente do computador enquanto estudo. Sou casado com uma
 esposa linda e dedicada, Advogada, temos duas cachorras travessas.
