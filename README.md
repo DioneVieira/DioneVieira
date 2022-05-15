@@ -24,7 +24,7 @@ naquela rotina sem novidades.
 Iniciei então a faculdade de Engenharia de Produção, foi lá que conheci a
 programação, naquele momento, vi que era aquilo que queria fazer na vida
 **PROGRAMAR, DESENVOLVER, CRIAR**. Em 2021 iniciei o curso de **ANÁLISE E
-DESENVOLVIMENTO DE SISTEMAS**, desde então minha rotina é estudar, além
+DESENVOLVIMENTO DE SISTEMAS**, desde então minha rotina é estudar e trabalhar, além
 da faculdade, estudar linguagens de programação, claro que ainda não conheço
 todas, estou aprendendo **Python, Java, HTML, CSS e JavaScript** mas quero ter conhecimento
 em várias, enquanto estou parado nos congestionamentos estudo **inglês** ouvindo
