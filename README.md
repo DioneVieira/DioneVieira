@@ -1,4 +1,4 @@
-### Olá, Eu sou O Dione Vieira! 🤙
+### Olá, Eu sou **Dione Vieira**! 🤙
 <hr>
 ✍️ Estou cursando Análise e Desenvolvimento de Sistemas na UNINTER.<br/>
 🔍 Procurando oportunidades para trabalhar na área de TI. Estágio, Trainee, Junior, etc...<hr>
