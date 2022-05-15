@@ -20,20 +20,19 @@
 Desde a adolescência, perdia horas modificando jogos que costumava ter no
 computador, fazia mais modificações do que jogava. Comecei a trabalhar em
 linhas de produção, mas sempre incomodado na profissão que exercia, ficava
-naquela rotina sem novidades. Continuei a fazer modificações nos códigos dos
-games que jogava nas horas vagas.
+naquela rotina sem novidades. 
 Iniciei então a faculdade de Engenharia de Produção, foi lá que conheci a
 programação, naquele momento, vi que era aquilo que queria fazer na vida
-PROGRAMAR, DESENVOLVER, CRIAR. Em 2021 iniciei o curso de ANÁLISE E
-DESENVOLVIMENTO DE SISTEMAS, desde então minha rotina é estudar, além
+**PROGRAMAR, DESENVOLVER, CRIAR**. Em 2021 iniciei o curso de **ANÁLISE E
+DESENVOLVIMENTO DE SISTEMAS**, desde então minha rotina é estudar, além
 da faculdade, estudar linguagens de programação, claro que ainda não conheço
-todas, estou aprendendo Python, HTML5 E CSS3, mas quero ter conhecimento
+todas, estou aprendendo **Python, Java, HTML, CSS e JavaScript** mas quero ter conhecimento
 em várias, enquanto estou parado nos congestionamentos estudo inglês ouvindo
 podcasts. Sou muito criativo, gosto de artesanato, natureza, tomar aquele
 cafezinho na frente do computador enquanto estudo. Sou casado com uma
-esposa linda e dedicada, futura Advogada, temos duas cachorras travessas.
+esposa linda e dedicada, Advogada, temos duas cachorras travessas.
 No momento estou trabalhando como Mecânico de ar condicionado automotivo,
 até encontrar um emprego na área de TI e estudo a noite.
-Sou dedicado, responsável, aprendo rapidamente, solução de problemas.
+Sou dedicado, responsável, aprendo rapidamente, gosto de solucionar problemas.
 Estou à procura de uma oportunidade de trabalho na área de TI, para dar início
 nesse novo ciclo de trabalho.
