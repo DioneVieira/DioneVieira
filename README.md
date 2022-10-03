@@ -22,14 +22,14 @@
 ### Sobre Mim<hr>
 Me chamo **Dione**, tenho 30 anos, sou estudante de **Análise e Desenvolvimento de Sistemas**.
 Sou criativo, gosto de artesanatos, natureza, família e tomar aquele cafezinho agradável na frente do computador enquanto aprimoro os meus conhecimentos.
-Sou casado com uma esposa linda, dedicada e Advogada, temos duas cachorras travessas. Me considero, uma pessoa dedicada, responsável, racional, calmo, 
+Sou casado com uma esposa linda, dedicada e Advogada. Me considero, uma pessoa dedicada, responsável, racional, calmo, 
 rápido aprendizado e gosto de solucionar problemas, a forma em que trabalho, é uma combinação de exatidão e precisão com a paciência na medida para trabalhar em um 
 projeto até que ele seja concluído.
 
 ### About me<hr>
 My name is **Dione**, I'm 30 years old, I'm a student of **Systems Analysis and Development**.
 I'm creative, I like crafts, nature, family and drinking coffee in front of the computer while improving my knowledge.
-I'm married to a beautiful, devoted wife and lawyer, we have two crazy dogs.
+I'm married to a beautiful, devoted wife and lawyer.
 Consider me a dedicated, responsible, rational, calm,
 Quick learner and problem solver, the way of working is a way of working and precision with the patience of working on a
 project to completion.
