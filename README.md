@@ -19,17 +19,8 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-### Sobre Mim<hr>
-Me chamo **Dione**, tenho 30 anos, sou estudante de **Análise e Desenvolvimento de Sistemas**.
-Sou criativo, gosto de artesanatos, natureza, família e tomar aquele cafezinho agradável na frente do computador enquanto aprimoro os meus conhecimentos.
-Sou casado com uma esposa linda, dedicada e Advogada. Me considero, uma pessoa dedicada, responsável, racional, calmo, 
-rápido aprendizado e gosto de solucionar problemas, a forma em que trabalho, é uma combinação de exatidão e precisão com a paciência na medida para trabalhar em um 
-projeto até que ele seja concluído.
+### Sobre <hr>
 
-### About me<hr>
-My name is **Dione**, I'm 30 years old, I'm a student of **Systems Analysis and Development**.
-I'm creative, I like crafts, nature, family and drinking coffee in front of the computer while improving my knowledge.
-I'm married to a beautiful, devoted wife and lawyer.
-Consider me a dedicated, responsible, rational, calm,
-Quick learner and problem solver, the way of working is a way of working and precision with the patience of working on a
-project to completion.
+Sou um admirador da tecnologia e pelo que ela nos proporciona. O que gosto na tecnologia é a possibilidade de constante inovação e presenciar os resultados imediatos das ferramentas e funcionalidades desenvolvidas. Utilizo da **CURIOSIDADE** e da **CRIATIVIDADE** para desenvolver meus projetos, para obter o melhor resultado.
+
+Busco sempre aprimorar meus conhecimentos além do Curso de **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** com materiais sobre tecnologia como **Python, HTML, CSS e Javascript, entre outras**, em plataformas de estudo como Curso em Vídeo, DIO (Digital Innovatio One) e Youtube.
