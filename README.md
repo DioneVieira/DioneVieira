@@ -1,7 +1,7 @@
 ### Olá, Eu sou **Dione Vieira**! 👨🏻‍💻
 <h4 align="center">
     
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dione-willian-vieira-71284b235/)
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dione-willian-vieira-34707a253/)
 
 </h4>
 
