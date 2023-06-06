@@ -1,25 +1,9 @@
-### Olá, Eu sou **Dione Vieira**! 🤙
-<hr>
-✍️ Cursando Análise e Desenvolvimento de Sistemas.<br/>
-🔍 Procurando oportunidades para trabalhar na área de TI. Estágio, Trainee, Junior, etc...<hr>
-🔍Looking for opportunities to work in the IT field. Trainee, Junior, etc...<hr>
-
+### Olá, Eu sou **Dione Vieira**! 👨🏻‍💻
+<h4 align="center">
+    
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dione-willian-vieira-71284b235/)
 
-
-
-## Tecnologias que eu estou aprendendo
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
-
-### Sobre <hr>
+</h4>
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, buscando iniciar minha carreira na área de Tecnologia. Possuo conhecimentos em Python, SQL, HTML, CSS e Javascript, e estou ansioso para aprimorar minhas habilidades e APRENDER NOVAS TECNOLOGIAS. Além disso, tenho interesse nas áreas de testes, análise e desenvolvimento de software, e estou sempre procurando aprender mais sobre essas áreas.
 
@@ -37,3 +21,26 @@ I am studying ENGLISH and currently at an intermediate level, which allows me to
 With experience in production lines, I have acquired skills in problem-solving, teamwork, and attention to detail, which can be applied in the technology field.
 
 I am PROACTIVE AND COMMITTED to learning and developing new skills, ALWAYS WILLING TO WORK HARD to achieve my goals and contribute to the company's success. I am looking for an opportunity to start my career in technology and grow professionally in a challenging and dynamic environment.
+<br>
+<br>
+Email: vieira.dionewillian@gmail.com
+
+
+## Tecnologias que eu estou aprendendo
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    
+</div><br/>
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneVieira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneVieira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneVieira&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneVieira&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DioneVieira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
