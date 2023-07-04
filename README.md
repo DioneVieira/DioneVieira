@@ -5,7 +5,7 @@
 
 </h4>
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas, buscando iniciar minha carreira na área de Tecnologia. Possuo conhecimentos em Python, SQL, HTML, CSS e Javascript, e estou ansioso para aprimorar minhas habilidades e APRENDER NOVAS TECNOLOGIAS. Além disso, tenho interesse nas áreas de testes, análise e desenvolvimento de software, e estou sempre procurando aprender mais sobre essas áreas.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, buscando iniciar minha carreira na área de Tecnologia. Possuo conhecimentos em Python, SQL, HTML, CSS e Javascript, e estou ansioso para aprimorar minhas habilidades e APRENDER NOVAS TECNOLOGIAS. Tenho interesse na área de DADOS, e estou sempre procurando aprender mais sobre essa área.
 
 Estou estudando INGLÊS e atualmente estou no nível intermediário, o que me permite ter conversas simples e ler textos com facilidade. Acredito que o conhecimento em INGLÊS é uma habilidade essencial para trabalhar em um ambiente globalizado.
 
@@ -14,7 +14,7 @@ Com experiência em linhas de produção, adquiri habilidades em resolução de 
 Sou PROATIVO E COMPROMETIDO em aprender e desenvolver novas habilidades, SEMPRE DISPOSTO A TRABALHAR DURO para alcançar meus objetivos e contribuir com o sucesso da empresa. Procuro uma oportunidade para iniciar minha carreira em tecnologia e crescer profissionalmente em um ambiente desafiador e dinâmico.
 _______________________________________________________________________________________________________________
 
-I am a student of Analysis and Systems Development, seeking to start my career in the Technology field. I have knowledge in Python, SQL, HTML, CSS, and Javascript, and I am eager to improve my skills and LEARN NEW TECHNOLOGIES. In addition, I am interested in the areas of testing, analysis, and software development, and I am always looking to learn more about these areas.
+I am a student of Analysis and Systems Development, seeking to start my career in the Technology field. I have knowledge in Python, SQL, HTML, CSS, and Javascript, and I am eager to improve my skills and LEARN NEW TECHNOLOGIES. I am interested in the DATA area, and I am always looking to learn more about this area.
 
 I am studying ENGLISH and currently at an intermediate level, which allows me to have simple conversations and read texts with ease. I believe that knowledge in ENGLISH is an essential skill to work in a globalized environment.
 
